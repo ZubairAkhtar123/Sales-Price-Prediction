@@ -1,0 +1,1 @@
+All the group members collaboratively worked on the project, our previous repository on github was not aligned with files unsequentially therefore we had to make a new respository where all code files could be found sequentially provide ease of access for reveiwing. 
